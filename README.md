@@ -1,12 +1,12 @@
-# Hi there, I'm Gulzar Ahamed 👋
+# Gulzar Ahamed - Full Stack Developer
 
-I'm a passionate Full Stack Developer with expertise in web technologies such as HTML, CSS, JavaScript, React.js, Node.js, Express.js, MySQL, jQuery, Redux Toolkit, and more. I love building dynamic and user-friendly web applications. Here are five key points about me:
+Experienced in:
+- Front-end technologies: HTML, CSS, JavaScript, creating responsive and intuitive user interfaces.
+- Back-end development: Node.js, Express.js, MySQL, SQL for efficient data handling and storage.
+- Modern JavaScript frameworks: React.js, Redux Toolkit, jQuery for scalable and interactive web applications.
+- Version control systems: Git and GitHub for collaborative development and code management.
+- Dedicated to continuous learning and staying updated with the latest web development trends.
 
-- Experienced in front-end technologies like HTML, CSS, and JavaScript, with a focus on creating responsive and intuitive user interfaces.
-- Skilled in backend development using Node.js, Express.js, and database management with MySQL and SQL, ensuring efficient data handling and storage.
-- Proficient in modern JavaScript frameworks like React.js, Redux Toolkit, and jQuery, enabling me to build scalable and interactive web applications.
-- Familiar with version control systems like Git and GitHub, ensuring collaborative development and code management.
-- Dedicated to continuous learning and staying updated with the latest trends and technologies in the web development industry.
 
 ## Skills
 
